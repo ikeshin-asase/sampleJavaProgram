@@ -1,2 +1,2 @@
-# sampleJavaProgram
-Javaのサンプルプログラムを設置しています。
+# SampleJavaProgram_MineGame
+Javaのサンプルプログラム:地雷ゲームを設置しています。
